@@ -8,3 +8,13 @@ G:\PRG\C#\Ukol1_Vyjimky\Ukol1_Vyjimky\obj\Debug\Ukol1_Vyjimky.csproj.GenerateRes
 G:\PRG\C#\Ukol1_Vyjimky\Ukol1_Vyjimky\obj\Debug\Ukol1_Vyjimky.csproj.CoreCompileInputs.cache
 G:\PRG\C#\Ukol1_Vyjimky\Ukol1_Vyjimky\obj\Debug\Ukol1_Vyjimky.exe
 G:\PRG\C#\Ukol1_Vyjimky\Ukol1_Vyjimky\obj\Debug\Ukol1_Vyjimky.pdb
+C:\Users\Nadupaná mašina\Source\Repos\Ukol1_vyjimky\Ukol1_Vyjimky\Ukol1_Vyjimky\bin\Debug\Ukol1_Vyjimky.exe.config
+C:\Users\Nadupaná mašina\Source\Repos\Ukol1_vyjimky\Ukol1_Vyjimky\Ukol1_Vyjimky\bin\Debug\Ukol1_Vyjimky.exe
+C:\Users\Nadupaná mašina\Source\Repos\Ukol1_vyjimky\Ukol1_Vyjimky\Ukol1_Vyjimky\bin\Debug\Ukol1_Vyjimky.pdb
+C:\Users\Nadupaná mašina\Source\Repos\Ukol1_vyjimky\Ukol1_Vyjimky\Ukol1_Vyjimky\obj\Debug\Ukol1_Vyjimky.csproj.AssemblyReference.cache
+C:\Users\Nadupaná mašina\Source\Repos\Ukol1_vyjimky\Ukol1_Vyjimky\Ukol1_Vyjimky\obj\Debug\Ukol1_Vyjimky.Form1.resources
+C:\Users\Nadupaná mašina\Source\Repos\Ukol1_vyjimky\Ukol1_Vyjimky\Ukol1_Vyjimky\obj\Debug\Ukol1_Vyjimky.Properties.Resources.resources
+C:\Users\Nadupaná mašina\Source\Repos\Ukol1_vyjimky\Ukol1_Vyjimky\Ukol1_Vyjimky\obj\Debug\Ukol1_Vyjimky.csproj.GenerateResource.cache
+C:\Users\Nadupaná mašina\Source\Repos\Ukol1_vyjimky\Ukol1_Vyjimky\Ukol1_Vyjimky\obj\Debug\Ukol1_Vyjimky.csproj.CoreCompileInputs.cache
+C:\Users\Nadupaná mašina\Source\Repos\Ukol1_vyjimky\Ukol1_Vyjimky\Ukol1_Vyjimky\obj\Debug\Ukol1_Vyjimky.exe
+C:\Users\Nadupaná mašina\Source\Repos\Ukol1_vyjimky\Ukol1_Vyjimky\Ukol1_Vyjimky\obj\Debug\Ukol1_Vyjimky.pdb
